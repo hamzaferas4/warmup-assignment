@@ -1,4 +1,4 @@
-const fs = require("fs");
+// Warmup assignment submissionconst 
 function convertAmPmToSeconds(timeStr) {
     timeStr = timeStr.trim();
     let parts = timeStr.split(" ");
